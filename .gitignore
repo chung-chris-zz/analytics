@@ -7,3 +7,4 @@ sf-bikeshare/*
 !sf-bikeshare/sf_bikes.ipynb
 !sf-bikeshare/missing_stations.csv
 !sf-bikeshare/sf_bikes.png
+!sf-bikeshare/scatter_map.png
