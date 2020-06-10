@@ -1,0 +1,8 @@
+_creds/*
+world-bank/*
+world-statistics/*
+
+# in sf-bikeshare, ignore all but the jupyter nb and the missing station local file referenced in the nb
+sf-bikeshare/*
+!sf-bikeshare/sf_bikes.ipynb
+!sf-bikeshare/missing_stations.csv
